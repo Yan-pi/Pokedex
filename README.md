@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [PokéAPI](https://pokeapi.co/) for providing the Pokemon data.
-- [GitHub Pages](https://pages.github.com/) for hosting the project.
+- [GitHub Pages]([https://pages.github.com/](https://yan-pi.github.io/Pokedex/)) for hosting the project.
 
 ## Contact
 
